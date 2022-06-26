@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62b89b3fa0805b7707417f22"
+  },
+  "imageName": "Lidl",
+  "title": "Lidl",
+  "handsetCols": 1,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "62b89b3fa0805b7707417f23"
+  },
+  "imageName": "biedronka",
+  "title": "Biedronka",
+  "handsetCols": 1,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "62b89b3fa0805b7707417f24"
+  },
+  "imageName": "zabka",
+  "title": "Żabka",
+  "handsetCols": 1,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+},{
+  "_id": {
+    "$oid": "62b89b3fa0805b7707417f25"
+  },
+  "imageName": "auchan",
+  "title": "Auchan",
+  "handsetCols": 1,
+  "handsetRows": 1,
+  "webCols": 1,
+  "webRows": 1
+}]
